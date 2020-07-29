@@ -1,6 +1,6 @@
 # LikeLion 8th Coding Session Summary
 -----------------------------------------------
-## Koreatech Mechatronics 17th 박홍준
+## Likelion 8th 박홍준
 
 ## 1주차 강의
 
