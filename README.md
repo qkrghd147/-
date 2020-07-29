@@ -1,6 +1,6 @@
 # LikeLion 8th Coding Session Summary
 -----------------------------------------------
-## Likelion 8th 박홍준
+## LikeLion 8th 박홍준
 
 ## 1주차 강의
 
