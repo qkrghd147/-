@@ -11,5 +11,4 @@
 ## 2주차 강의 :fire:
 
 1. **마스크 알리미 만들기 강좌소개** - 마스크 만들기 강좌의 목표와 진행순서 [**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/2%EC%A3%BC%EC%B0%A8/%EB%A7%88%EC%8A%A4%ED%81%AC%20%EC%95%8C%EB%A6%AC%EB%AF%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EA%B0%95%EC%A2%8C%EC%86%8C%EA%B0%9C.md)
-
 2. **HTTP,JSON,API의 개념** - 각 용어의 개념(이론)[[**요약**]](https://github.com/qkrghd147/Lecture-Summary/blob/master/2%EC%A3%BC%EC%B0%A8/HTTP%2CJSON%2CAPI%20%EA%B0%9C%EB%85%90.md)
