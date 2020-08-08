@@ -18,3 +18,9 @@
 6. **메인화면 UI 작업(실습)**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/2%EC%A3%BC%EC%B0%A8/UI%20%EC%9E%91%EC%97%85%2C%20Kakao%20Map%20%EC%82%BD%EC%9E%85(%EC%8B%A4%EC%8A%B5).md)
 7. **메인화면 기능구현(실습)**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/2%EC%A3%BC%EC%B0%A8/%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84(%EC%8B%A4%EC%8A%B5).md)
 8. **시작화면 UI 및 기능구현(실습)**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/2%EC%A3%BC%EC%B0%A8/%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4%20UI%20%EB%B0%8F%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84(%EC%8B%A4%EC%8A%B5).md)
+
+## 3주차 강의 :umbrella:
+
+1. **Django, 그게 뭐야** - Django의 기초개념[**[요약]**]()
+
+2. **Hello, Django(실습)** - repository 생성 ~ 자신의 서버 만들기[**[요약]**]()
