@@ -21,11 +21,11 @@
 
 ## 3주차 강의 :umbrella:
 
-1. **Django, 그게 뭐야** - Django의 기초개념[**[요약]**]()
-2. **Hello, Django(실습)** - repository 생성 ~ 자신의 서버 만들기[**[요약]**]()
-3. **Django가 관리하는 법**[**[요약]**]()
-4. **Django로 나를 소개해볼께 #1**[**[요약]**]()
-5. **Django로 나를 소개해볼께 #2**[**[요약]**]()
-6. **Django는 중복을 싫어해** - Template 종속을 통해서 중복 없애기[**[요약]**]()
-7. **CRUD #1** - Create, Read, Update, Delete에 대하여[**[요약]**]()
-8. **CRUD #2**[**[요약]**]()
+1. **Django, 그게 뭐야** - Django의 기초개념[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/Django%2C%20%EA%B7%B8%EA%B2%8C%20%EB%AD%90%EC%95%BC.md)
+2. **Hello, Django(실습)** - repository 생성 ~ 자신의 서버 만들기[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/Hello%2C%20Django(%EC%8B%A4%EC%8A%B5).md)
+3. **Django가 관리하는 법**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/Django%EA%B0%80%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+4. **Django로 나를 소개해볼께 #1**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/Django%EB%A1%9C%20%EB%82%98%EB%A5%BC%20%EC%86%8C%EA%B0%9C%ED%95%B4%EB%B3%BC%EA%B2%8C%20%231.md)
+5. **Django로 나를 소개해볼께 #2**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/Django%EB%A1%9C%20%EB%82%98%EB%A5%BC%20%EC%86%8C%EA%B0%9C%ED%95%B4%EB%B3%BC%EA%B2%8C%20%232.md)
+6. **Django는 중복을 싫어해** - Template 종속을 통해서 중복 없애기[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/Django%EB%8A%94%20%EC%A4%91%EB%B3%B5%EC%9D%84%20%EC%8B%AB%EC%96%B4%ED%95%B4.md)
+7. **CRUD #1** - Create, Read, Update, Delete에 대하여[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/CRUD%20%231%20.md)
+8. **CRUD #2**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/CRUD%20%232.md)
