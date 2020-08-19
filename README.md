@@ -30,7 +30,7 @@
 7. **CRUD #1** - Create, Read, Update, Delete에 대하여[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/CRUD%20%231%20.md)
 8. **CRUD #2**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/CRUD%20%232.md)
 
-## 4주차 강의 : pray : 
+## 4주차 강의 :pray: 
 
 1. **모델과 데이터베이스**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
 2. **모델 Form**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/%EB%AA%A8%EB%8D%B8%20Form.md)
