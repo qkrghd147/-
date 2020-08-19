@@ -29,3 +29,13 @@
 6. **Django는 중복을 싫어해** - Template 종속을 통해서 중복 없애기[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/Django%EB%8A%94%20%EC%A4%91%EB%B3%B5%EC%9D%84%20%EC%8B%AB%EC%96%B4%ED%95%B4.md)
 7. **CRUD #1** - Create, Read, Update, Delete에 대하여[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/CRUD%20%231%20.md)
 8. **CRUD #2**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/3%EC%A3%BC%EC%B0%A8/CRUD%20%232.md)
+
+## 4주차 강의 : pray : 
+
+1. **모델과 데이터베이스**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
+2. **모델 Form**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/%EB%AA%A8%EB%8D%B8%20Form.md)
+3. **Primary Key**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/Primary%20Key.md)
+4. **User**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/User.md)
+5. **Foreign Key**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/Foreign%20Key.md)
+6. **댓글 만들기**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/%EB%8C%93%EA%B8%80%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+7. **글자수 세기**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/%EA%B8%80%EC%9E%90%EC%88%98%20%EC%84%B8%EA%B8%B0.md)
