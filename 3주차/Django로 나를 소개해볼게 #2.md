@@ -27,7 +27,10 @@ Ex) 우리가 Designer등록하면 각각의 PK(id)가 있음.
 
 **여러 객체의 url을 "계층적으로" 다룰 수 있도록 도와주는 도구 - Path Convertor**
 
->urls.py path('profile/<int:designer_id>/', views.detail, *name = "detail")
-Tempalte {% url 'detail' designer.id %}
+>**urls.py** path('profile/<int:designer_id>/', views.detail, *name = "detail")
+
+>**Tempalte** {% url 'detail' designer.id %}
+
+ex) www.dreamary.com/profile/1 ~ 3   /profile/객체번호
 
 **Objecct를 가져오려 했는데 없을 경우 나타나는 에러 - get_object_or_404**
