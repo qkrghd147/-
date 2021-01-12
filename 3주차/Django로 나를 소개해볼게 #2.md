@@ -37,8 +37,6 @@ ex) www.dreamary.com/profile/1 ~ 3   /profile/객체번호
 
 **views.py** from django.shortcuts import render,get_object_or_404
 
->def detail(request, designer_id): 
-
-designer=get_object_or_404(Designer, pk = designer_id)
-
-return render(request, 'detail.html',{'designer':designer}
+>def detai(request, designer_id): 
+>designer=get_object_or_404(Designer, pk = designer_id)
+>return render(request, 'detail.html',{'designer':designer}
