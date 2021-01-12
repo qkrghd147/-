@@ -34,3 +34,9 @@ Ex) 우리가 Designer등록하면 각각의 PK(id)가 있음.
 ex) www.dreamary.com/profile/1 ~ 3   /profile/객체번호
 
 **Objecct를 가져오려 했는데 없을 경우 나타나는 에러 - get_object_or_404**
+
+**views.py** from django.shortcuts import render,get_object_or_404
+
+>def detai(request, designer_id): 
+designer=get_object_or_404(Designer, pk = designer_id)
+return render(request, 'detail.html',{'designer':designer}
