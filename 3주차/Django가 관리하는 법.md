@@ -28,7 +28,7 @@ python변수 & 문법을 HTML에서 쓸 수 있도록 Django에서 제공하는 
 
 for문 if,else문 사용 가능
 
-ex) {% for designer in designers %} => designers라는 모델의 클래스를 불러옴
+ex) {% for designer in designers %} => designers라는 모델의 data를 불러옴
 
 **Static File**
 
