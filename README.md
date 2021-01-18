@@ -39,3 +39,10 @@
 5. **Foreign Key**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/Foreign%20Key.md)
 6. **댓글 만들기**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/%EB%8C%93%EA%B8%80%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 7. **글자수 세기**[**[요약]**](https://github.com/qkrghd147/Lecture-Summary/blob/master/4%EC%A3%BC%EC%B0%A8/%EA%B8%80%EC%9E%90%EC%88%98%20%EC%84%B8%EA%B8%B0.md)
+
+
+# LikeLion 9th 운영진 교육
+-----------------------------------------------
+## LikeLion 8th 박홍준
+
+## 웹 기초(1주차) :fire:
